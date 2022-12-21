@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Leandro Correia</string>
+    <string name="bio">\nRoses are red,\nViolets are blue.\nKotlin is better than Java,\nif you don\'t switch the is dumb is you.\n\nHello, my name is Leandro and I am a Junior Android Developer, i like to play games and eat a lot of food, mostly \'Francesinha\', that\'s my favorite food. To fill the ScrollView i just want to write more text, just for fun.</string>
+    <string name="description_star_image">Star image</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
